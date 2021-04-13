@@ -1,3 +1,14 @@
-# Meridian
-Meridian is a private discord bot fully made by Cayoten and Juanmuscaria. It's a full featured multi-purpose bot with
-moderation, some automoderation, roleplay, and general commands like approval, emote stealing, and funny commands.
+## Meridian
+Meridian Bot is a Handy Discord Bot with Fun and Moderation Commands
+
+## Producers
+
+iBPlus
++
+Deleted User 61b08a7f
+
+### Contact
+
+[Join the Producer's Delightful Discord Server] (https://discord.gg/E5vJE2trn8)
+
+[Subscribe to the Producer's Fun YouTube Channel] (https://www.youtube.com/channel/UC-CEtid2sXgaEocn6C7iJcw)
