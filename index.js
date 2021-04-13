@@ -112,3 +112,19 @@ process.on(`unhandledRejection`, err => {
 //The bot's token to login
 client.login(process.env.TOKEN);
 
+/* Bot Stop Code
+
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
+rl.on('close', () => {
+    console.info('Bot shutdown command recieved. Shutting down!');
+    process.kill(process.pid, 'SIGTERM')
+})
+
+process.on('SIGTERM', () => {
+    client.destroy();
+}) 
+
+*/ /* Bot Not Working */
