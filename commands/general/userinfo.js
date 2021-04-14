@@ -27,7 +27,7 @@ module.exports = {
             .addField("Joined At", joinTime)
             .addField("Status", `${tocheck.user.presence.status}`)
             .setThumbnail(tocheck.user.displayAvatarURL())
-            .setFooter("Developed by Cayoten")
+            .setFooter("Developed by iBPlus")
             .setTimestamp();
 
         await message.channel.send(memberinfo);
